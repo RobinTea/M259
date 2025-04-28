@@ -1,4 +1,8 @@
 # M259
+Datensatz:
+Der Datensatz enthält Informationen zu Flugzeugvorfällen weltweit. Er dokumentiert Felder wie Datum, Flugzeugmodell, Betreiber, Unfallursache, Ort, Art des Schadens sowie Anzahl der Opfer. Weitere Angaben betreffen die Flugphase, Abflug- und Zielorte sowie Angaben zu Bodenopfern und Kollisionen.
+Alle Daten stammen aus öffentlich verfügbaren Quellen zu Luftfahrtsicherheit und sind auf Vorfallstatistiken bezogen.
+<br>
 
 the Rows:
 
@@ -46,3 +50,8 @@ the Rows:
   - Anzahl der am Boden befindlichen Personen, die verletzt oder getötet wurden.
 - Collision_Casualties
   - Durch Kollisionen mit anderen Objekten (z. B. anderen Flugzeugen, Gebäuden) verursachte Unfälle.
+
+## 1.2
+Der Datensatz enthält keine personenbezogenen Daten. Weder Namen von Passagieren noch spezifische private Informationen sind enthalten.
+Datenschutzrichtlinien werden eingehalten, da alle Daten aus öffentlichen Berichten stammen. Sensible Informationen wurden nicht erhoben oder verarbeitet.
+Es sind keine zusätzlichen Maßnahmen nötig gewesen, außer der Vermeidung personenbezogener Angaben. Man könnte aber Namen der Angehörigen herrausfinden indem man auf Aufnahmen und Interviews schaut.
