@@ -57,7 +57,5 @@ Datenschutzrichtlinien werden eingehalten, da alle Daten aus öffentlichen Beric
 Es sind keine zusätzlichen Maßnahmen nötig gewesen, außer der Vermeidung personenbezogener Angaben. Man könnte aber Namen der Angehörigen herrausfinden indem man auf Aufnahmen und Interviews schaut.
 
 ## Teil 2
-
-### 2.1
-### 2.2
+Im ```data_description.ipynb```
 
