@@ -51,7 +51,7 @@ the Rows:
 - Collision_Casualties
   - Durch Kollisionen mit anderen Objekten (z. B. anderen Flugzeugen, Gebäuden) verursachte Unfälle.
 
-### 1.2
+### 1.2 Ueber Datenschutz
 Der Datensatz enthält keine personenbezogenen Daten. Weder Namen von Passagieren noch spezifische private Informationen sind enthalten.
 Datenschutzrichtlinien werden eingehalten, da alle Daten aus öffentlichen Berichten stammen. Sensible Informationen wurden nicht erhoben oder verarbeitet.
 Es sind keine zusätzlichen Maßnahmen nötig gewesen, außer der Vermeidung personenbezogener Angaben. Man könnte aber Namen der Angehörigen herrausfinden indem man auf Aufnahmen und Interviews schaut.
