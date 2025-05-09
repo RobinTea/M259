@@ -2,7 +2,7 @@
 Datensatz: https://www.kaggle.com/datasets/deepcontractor/aircraft-accidents-failures-hijacks-dataset/data <br>
 Der Datensatz enthält Informationen zu Flugzeugvorfällen weltweit. Er dokumentiert Felder wie Datum, Flugzeugmodell, Betreiber, Unfallursache, Ort, Art des Schadens sowie Anzahl der Opfer. Weitere Angaben betreffen die Flugphase, Abflug- und Zielorte sowie Angaben zu Bodenopfern und Kollisionen.
 Alle Daten stammen aus öffentlich verfügbaren Quellen zu Luftfahrtsicherheit und sind auf Vorfallstatistiken bezogen.
-<br>
+<br><br>
 Wie Sie sehen war es nicht der beste Datensatz, wobei ich das erst zu spät gemerkt habe. Es gibt viel zu viele Reihen, es ist unkonsistent (es ist nicht selten das Daten fehlen), es sind fast nur Strings auch wenn es die möglichkeit hätte diese Kategorie als Integer darzustellen und es wird drei mal die Zeit dargestellt. Jedoch gibt es genug Daten um damit etwas anzufangen. 
 Für mehr Informationen sehen Sie in den Dateien:<br>
 ```data_description.ipynb``` <br>
